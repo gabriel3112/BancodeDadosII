@@ -1,0 +1,4 @@
+-- Aula do dia 11/03/2025
+-- Prof Molina
+
+-- comando SELECT
